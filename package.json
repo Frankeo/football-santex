@@ -4,13 +4,12 @@
     "description": "Solution for santex challenge",
     "main": "app.js",
     "scripts": {
-        "prestart": "tsc",
+        "prestart": "tsc && copyfiles -f src/schemas/* build/schemas/",
         "start": "node build/app.js",
         "test": "jest",
         "format": "prettier --check .",
         "format:fix": "prettier --write .",
-        "lint": "eslint .",
-        "lint:fix": "eslint --fix ."
+        "lint": "eslint ."
     },
     "repository": {
         "type": "git",
@@ -23,9 +22,11 @@
     },
     "homepage": "https://github.com/Frankeo/football-santex#readme",
     "dependencies": {
+        "@graphql-tools/load-files": "^6.6.0",
         "express": "^4.18.1",
         "express-graphql": "^0.12.0",
         "graphql": "^16.5.0",
+        "graphql-tools": "^8.3.1",
         "lowdb": "^3.0.0"
     },
     "devDependencies": {
@@ -33,8 +34,8 @@
         "@types/node": "^18.6.1",
         "@typescript-eslint/eslint-plugin": "^5.31.0",
         "@typescript-eslint/parser": "^5.31.0",
+        "copyfiles": "^2.4.1",
         "eslint": "^8.20.0",
-        "eslint-config-google": "^0.14.0",
         "eslint-config-prettier": "^8.5.0",
         "husky": "^8.0.1",
         "jest": "^28.1.3",
