@@ -1,3 +1,3 @@
 describe('Name of the group', () => {
-    it('should ', () => {})
+    it('should ', () => { return undefined })
 })

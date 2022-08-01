@@ -1,5 +1,5 @@
-const express = require('express')
-const { graphqlHTTP } = require('express-graphql')
+import express from 'express'
+import { graphqlHTTP } from 'express-graphql'
 import { makeExecutableSchema } from '@graphql-tools/schema'
 import { globalTypes } from './graphql-types'
 import { competitionResolver } from './resolvers/competition-resolver'
@@ -7,16 +7,16 @@ import { playerResolver } from './resolvers/player-resolver'
 import { teamResolver } from './resolvers/team-resolver'
 
 const executableSchema = makeExecutableSchema({
-    typeDefs: globalTypes
+    typeDefs: globalTypes,
 })
 
 const root = {
     ...competitionResolver,
     ...playerResolver,
-    ...teamResolver
+    ...teamResolver,
 }
 
-var app = express()
+const app = express()
 
 app.use(
     '/graphql',

@@ -2,7 +2,10 @@ import { competitionAdapter, teamAdapter } from './adapters/competition-adapter'
 import axios from 'axios'
 import rateLimit from 'axios-rate-limit'
 
-const api = rateLimit(axios.create(), { maxRequests: 10, perMilliseconds: 60000 });
+const api = rateLimit(axios.create(), {
+    maxRequests: 10,
+    perMilliseconds: 60000,
+})
 const APIToken = '8fadfda7b8834172893c2683be2c8c0c'
 const baseUrl = 'http://api.football-data.org'
 const version = 'v2'
@@ -34,7 +37,5 @@ export const getTeamIdsByLeague = (leagueCode: string): Promise<number[]> => {
 
 export const getTeamById = (teamId: number): Promise<Team> => {
     const url = getUrl(baseUrl, version, 'teams', teamId.toString())
-    return api
-        .get(url, getOptions())
-        .then(({ data }) => teamAdapter(data))
+    return api.get(url, getOptions()).then(({ data }) => teamAdapter(data))
 }
