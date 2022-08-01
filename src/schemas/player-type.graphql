@@ -1,0 +1,12 @@
+type Player {
+  name: String!
+  position: String
+  dateOfBirth: String
+  countryOfBirth: String
+  nacionality: String
+}
+
+type Query {
+    playersByLeague(leagueCode: String): [Player]
+    playersByTeam(teamName: String): [Player]
+}

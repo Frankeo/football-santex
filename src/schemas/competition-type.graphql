@@ -1,3 +1,13 @@
+type Competition {
+    areaName: String
+    code: String
+    name: String
+}
+
 type Query {
-    hello: String
+    League: Competition
+}
+
+type Mutation {
+    importLeague(leagueCode: String): Competition
 }

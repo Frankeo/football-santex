@@ -1,0 +1,1326 @@
+{
+  "competitions": [
+    {
+      "areaName": "Europe",
+      "code": "CL",
+      "name": "UEFA Champions League",
+      "teams": [
+        {
+          "areaName": "Monaco",
+          "email": null,
+          "name": "AS Monaco FC",
+          "players": [
+            {
+              "name": "Alexander Nübel",
+              "dateOfBirth": "1996-09-30T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Thomas Didillon",
+              "dateOfBirth": "1995-11-28T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Yann Lienard",
+              "dateOfBirth": "2003-03-16T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Ismail Jakobs",
+              "dateOfBirth": "1999-08-17T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Guillermo Maripán",
+              "dateOfBirth": "1994-05-06T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Chile"
+            },
+            {
+              "name": "Jean Marcelin",
+              "dateOfBirth": "2000-02-12T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Reunion"
+            },
+            {
+              "name": "Axel Disasi",
+              "dateOfBirth": "1998-03-11T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Caio Henrique",
+              "dateOfBirth": "1997-07-31T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Ruben Aguilar",
+              "dateOfBirth": "1993-04-26T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Chrislain Matsima",
+              "dateOfBirth": "2002-05-15T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Vanderson",
+              "dateOfBirth": "2001-06-21T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Benoît Badiashile",
+              "dateOfBirth": "2001-03-26T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Yllan Okou",
+              "dateOfBirth": "2002-12-23T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Jean Lucas",
+              "dateOfBirth": "1998-06-22T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Gelson Martins",
+              "dateOfBirth": "1995-05-11T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Cape Verde Islands"
+            },
+            {
+              "name": "Aleksandr Golovin",
+              "dateOfBirth": "1996-05-30T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Russia"
+            },
+            {
+              "name": "Philippe Clement",
+              "dateOfBirth": "1974-03-22T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Belgium"
+            },
+            {
+              "name": "Pelé",
+              "dateOfBirth": "1991-09-29T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Portugal"
+            },
+            {
+              "name": "Sofiane Diop",
+              "dateOfBirth": "2000-06-09T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Youssouf Fofana",
+              "dateOfBirth": "1999-01-10T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Eliot Matazo",
+              "dateOfBirth": "2002-02-15T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Belgium"
+            },
+            {
+              "name": "Felix Lemarechal",
+              "dateOfBirth": "2003-08-07T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Maghnes Akliouche",
+              "dateOfBirth": "2002-02-25T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Soungoutou Magassa",
+              "dateOfBirth": "2003-10-08T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Wissam Ben Yedder",
+              "dateOfBirth": "1990-08-12T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Kevin Volland",
+              "dateOfBirth": "1992-07-30T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Breel Embolo",
+              "dateOfBirth": "1997-02-14T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Cameroon"
+            },
+            {
+              "name": "Myron Boadu",
+              "dateOfBirth": "2001-01-14T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Willem Geubbels",
+              "dateOfBirth": "2001-08-16T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Krépin Diatta",
+              "dateOfBirth": "1999-02-25T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Senegal"
+            },
+            {
+              "name": "Takumi Minamino",
+              "dateOfBirth": "1995-01-16T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Japan"
+            },
+            {
+              "name": "Anthony Musaba",
+              "dateOfBirth": "2000-12-06T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Netherlands"
+            }
+          ],
+          "shortName": "Monaco",
+          "tla": "ASM"
+        },
+        {
+          "areaName": "Azerbaijan",
+          "email": null,
+          "name": "Qarabağ Ağdam FK",
+          "players": [],
+          "shortName": "Qarabağ Ağdam",
+          "tla": "QAR"
+        },
+        {
+          "areaName": "Turkey",
+          "email": "fenerbahceorg@fenerbahce.org",
+          "name": "Fenerbahçe SK",
+          "players": [],
+          "shortName": "Fenerbahçe",
+          "tla": "FEN"
+        },
+        {
+          "areaName": "Greece",
+          "email": "info@olympiacos.org",
+          "name": "PAE Olympiakos SFP",
+          "players": [],
+          "shortName": "Olympiakos",
+          "tla": "OLY"
+        },
+        {
+          "areaName": "Netherlands",
+          "email": "info@psv.nl",
+          "name": "PSV",
+          "players": [
+            {
+              "name": "Joël Drommel",
+              "dateOfBirth": "1996-11-16T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Walter Benítez",
+              "dateOfBirth": "1993-03-19T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Argentina"
+            },
+            {
+              "name": "Maxime Delanghe",
+              "dateOfBirth": "2001-05-23T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Belgium"
+            },
+            {
+              "name": "Kjell Peersman",
+              "dateOfBirth": "2004-05-21T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Olivier Boscagli",
+              "dateOfBirth": "1997-11-18T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Monaco"
+            },
+            {
+              "name": "Philipp Mwene",
+              "dateOfBirth": "1994-01-29T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Austria"
+            },
+            {
+              "name": "Philipp Max",
+              "dateOfBirth": "1993-09-30T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Derrick Luckassen",
+              "dateOfBirth": "1995-07-03T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Armando Obispo",
+              "dateOfBirth": "1999-03-05T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Mauro Júnior",
+              "dateOfBirth": "1999-05-06T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "André Ramalho",
+              "dateOfBirth": "1992-02-16T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Jordan Teze",
+              "dateOfBirth": "1999-09-30T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Ki-Jana Hoever",
+              "dateOfBirth": "2002-01-18T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Jarrad Branthwaite",
+              "dateOfBirth": "2002-06-27T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Fredrik Oppegard",
+              "dateOfBirth": "2002-08-07T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Norway"
+            },
+            {
+              "name": "Marco van Ginkel",
+              "dateOfBirth": "1992-12-01T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Guus Til",
+              "dateOfBirth": "1997-12-22T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Ibrahim Sangaré",
+              "dateOfBirth": "1997-12-02T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Côte d’Ivoire"
+            },
+            {
+              "name": "Érick Gutiérrez",
+              "dateOfBirth": "1995-06-15T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Mexico"
+            },
+            {
+              "name": "Joey Veerman",
+              "dateOfBirth": "1998-11-19T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Ismael Saibari",
+              "dateOfBirth": "2001-01-28T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Spain"
+            },
+            {
+              "name": "Xavi Simons",
+              "dateOfBirth": "2003-04-21T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Richard Ledezma",
+              "dateOfBirth": "2000-09-06T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Noni Madueke",
+              "dateOfBirth": "2002-03-10T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Luuk de Jong",
+              "dateOfBirth": "1990-08-27T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Switzerland"
+            },
+            {
+              "name": "Cody Gakpo",
+              "dateOfBirth": "1999-05-07T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Carlos Vinícius",
+              "dateOfBirth": "1995-03-25T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Yorbe Vertessen",
+              "dateOfBirth": "2001-01-08T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Belgium"
+            },
+            {
+              "name": "Sávio",
+              "dateOfBirth": "2004-04-10T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Johan Bakayoko",
+              "dateOfBirth": "2003-04-20T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Belgium"
+            }
+          ],
+          "shortName": "PSV",
+          "tla": "PSV"
+        },
+        {
+          "areaName": "Slovenia",
+          "email": "info@nkmaribor.com",
+          "name": "NK Maribor",
+          "players": [],
+          "shortName": "Maribor",
+          "tla": "MAR"
+        },
+        {
+          "areaName": "Sweden",
+          "email": "info@mff.se",
+          "name": "Malmö FF",
+          "players": [
+            {
+              "name": "Johan Dahlin",
+              "dateOfBirth": "1986-09-08T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Ismael Diawara",
+              "dateOfBirth": "1994-11-11T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Jonas Knudsen",
+              "dateOfBirth": "1992-09-16T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Lasse Nielsen",
+              "dateOfBirth": "1988-01-08T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Martin Olsson",
+              "dateOfBirth": "1988-05-17T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Niklas Moisander",
+              "dateOfBirth": "1985-09-29T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Finland"
+            },
+            {
+              "name": "Dennis Hadžikadunić",
+              "dateOfBirth": "1998-07-09T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Eric Larsson",
+              "dateOfBirth": "1991-07-15T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Felix Beijmo",
+              "dateOfBirth": "1998-01-31T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Matěj Chaluš",
+              "dateOfBirth": "1998-02-02T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Czech Republic"
+            },
+            {
+              "name": "Samuel Kotto",
+              "dateOfBirth": "2003-09-03T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Sergio Peña",
+              "dateOfBirth": "1995-09-28T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Peru"
+            },
+            {
+              "name": "Erdal Rakip",
+              "dateOfBirth": "1996-02-13T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Anders Christiansen",
+              "dateOfBirth": "1990-06-08T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Jo Inge Berget",
+              "dateOfBirth": "1990-09-11T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Norway"
+            },
+            {
+              "name": "Oscar Lewicki",
+              "dateOfBirth": "1992-07-14T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Samuel Adrian",
+              "dateOfBirth": "1998-03-02T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Søren Rieks",
+              "dateOfBirth": "1987-04-07T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Romain Gall",
+              "dateOfBirth": "1995-01-31T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "France"
+            },
+            {
+              "name": "Veljko Birmančević",
+              "dateOfBirth": "1998-03-05T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Serbia"
+            },
+            {
+              "name": "Amel Mujanic",
+              "dateOfBirth": "2001-04-01T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Patriot Sejdiu",
+              "dateOfBirth": "2000-05-05T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Kosovo"
+            },
+            {
+              "name": "Sebastian Nanasi",
+              "dateOfBirth": "2002-05-16T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "David Edvardsson",
+              "dateOfBirth": "2002-03-05T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Hugo Larsson",
+              "dateOfBirth": "2004-06-27T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Ola Toivonen",
+              "dateOfBirth": "1986-07-03T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Adi Nalic",
+              "dateOfBirth": "1997-12-01T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Malik Abubakari",
+              "dateOfBirth": "2000-05-10T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Ghana"
+            },
+            {
+              "name": "Isaac Kiese Thelin",
+              "dateOfBirth": "1992-06-24T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Miloš Milojević",
+              "dateOfBirth": "1982-09-29T00:00:00.000Z",
+              "position": null,
+              "countryOfBirth": "Serbia"
+            }
+          ],
+          "shortName": "Malmö FF",
+          "tla": "MAL"
+        },
+        {
+          "areaName": "Croatia",
+          "email": "dinamo@gnkdinamo.hr",
+          "name": "GNK Dinamo Zagreb",
+          "players": [],
+          "shortName": "Dinamo Zagreb",
+          "tla": "DIN"
+        },
+        {
+          "areaName": "Ukraine",
+          "email": "semenenko@goal.com.ua",
+          "name": "FK Dynamo Kyiv",
+          "players": [],
+          "shortName": "Dynamo Kyiv",
+          "tla": "DYN"
+        },
+        {
+          "areaName": "Israel",
+          "email": "info@mhaifafc.com",
+          "name": "Maccabi Haifa FC",
+          "players": [],
+          "shortName": "Maccabi Haifa",
+          "tla": "MHA"
+        },
+        {
+          "areaName": "Luxembourg",
+          "email": null,
+          "name": "F91 Diddeleng",
+          "players": [],
+          "shortName": "F91 Dudelange",
+          "tla": "F91"
+        },
+        {
+          "areaName": "Moldova",
+          "email": "club@sc.sheriff.md",
+          "name": "FC Sheriff Tiraspol",
+          "players": [],
+          "shortName": "Sheriff",
+          "tla": "SHE"
+        },
+        {
+          "areaName": "Czech Republic",
+          "email": "fcviktoria@fcviktoria.cz",
+          "name": "FC Viktoria Plzeň",
+          "players": [],
+          "shortName": "Viktoria Plzeň",
+          "tla": "PLZ"
+        },
+        {
+          "areaName": "Lithuania",
+          "email": "info@fkzalgiris.lt",
+          "name": "FK Žalgiris Vilnius",
+          "players": [],
+          "shortName": "Žalgiris",
+          "tla": "ZAL"
+        },
+        {
+          "areaName": "Malta",
+          "email": "secretary@hiberniansfc.org",
+          "name": "Hibernians FC",
+          "players": [],
+          "shortName": "Hibernians",
+          "tla": "HIB"
+        },
+        {
+          "areaName": "Bosnia and Herzegovina",
+          "email": "info@hskzrinjski.ba",
+          "name": "HŠK Zrinjski Mostar",
+          "players": [],
+          "shortName": "Zrinjski",
+          "tla": "ZRI"
+        },
+        {
+          "areaName": "Northern Ireland",
+          "email": "webdirector@linfieldfc.com",
+          "name": "Linfield FC",
+          "players": [],
+          "shortName": "Linfield",
+          "tla": "LIN"
+        },
+        {
+          "areaName": "Bulgaria",
+          "email": "office@ludogorets.com",
+          "name": "PFK Ludogorets 1945 Razgrad",
+          "players": [],
+          "shortName": "Ludogorets",
+          "tla": "LUD"
+        },
+        {
+          "areaName": "San Marino",
+          "email": "info@lafiorita.sm",
+          "name": "SP La Fiorita",
+          "players": [],
+          "shortName": "La Fiorita",
+          "tla": "LAF"
+        },
+        {
+          "areaName": "Wales",
+          "email": "ian.williams@tnsfc.co.uk",
+          "name": "The New Saints FC",
+          "players": [],
+          "shortName": "The New Saints",
+          "tla": "TNS"
+        },
+        {
+          "areaName": "Republic of Ireland",
+          "email": "shamrockrovers@clubi.ie",
+          "name": "Shamrock Rovers FC",
+          "players": [],
+          "shortName": "Shamrock Rov",
+          "tla": "SHR"
+        },
+        {
+          "areaName": "Belgium",
+          "email": "rusg@rusg.be",
+          "name": "Royale Union Saint-Gilloise",
+          "players": [],
+          "shortName": "Union SG",
+          "tla": "USG"
+        },
+        {
+          "areaName": "Denmark",
+          "email": "fcmidtjylland@fc-mj.dk",
+          "name": "FC Midtjylland",
+          "players": [
+            {
+              "name": "Jonas Lössl",
+              "dateOfBirth": "1989-02-01T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Elías Rafn Ólafsson",
+              "dateOfBirth": "2000-03-11T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Iceland"
+            },
+            {
+              "name": "David Ousted",
+              "dateOfBirth": "1985-02-01T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Juninho",
+              "dateOfBirth": "1995-01-02T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Henrik Dalsgaard",
+              "dateOfBirth": "1989-07-27T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Dion Cools",
+              "dateOfBirth": "1996-06-04T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Malaysia"
+            },
+            {
+              "name": "Paulinho",
+              "dateOfBirth": "1995-01-03T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Erik Sviatchenko",
+              "dateOfBirth": "1991-10-04T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Mads Thychosen",
+              "dateOfBirth": "1997-06-27T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Stefan Gartenmann",
+              "dateOfBirth": "1997-02-02T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Joel Andersson",
+              "dateOfBirth": "1996-11-11T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Hosine Bility",
+              "dateOfBirth": "2001-05-10T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Guinea"
+            },
+            {
+              "name": "Nikolas Dyhr",
+              "dateOfBirth": "2001-06-18T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Pablo Ortiz",
+              "dateOfBirth": "2000-06-08T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Colombia"
+            },
+            {
+              "name": "Victor Bak Jensen",
+              "dateOfBirth": "2003-10-03T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Pontus Texel",
+              "dateOfBirth": "2004-02-27T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Ousmane Diomande",
+              "dateOfBirth": "2004-11-16T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Charles",
+              "dateOfBirth": "1996-06-19T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Pione Sisto",
+              "dateOfBirth": "1995-02-04T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Uganda"
+            },
+            {
+              "name": "Victor Torp",
+              "dateOfBirth": "1999-07-30T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Raphael Onyedika",
+              "dateOfBirth": "2001-04-19T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Oliver Sörensen",
+              "dateOfBirth": "2002-03-10T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Valdemar Andreasen",
+              "dateOfBirth": "2005-01-05T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Chris Kouakou",
+              "dateOfBirth": "1999-12-15T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Júnior Brumado",
+              "dateOfBirth": "1999-05-15T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Evander",
+              "dateOfBirth": "1998-06-09T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Brazil"
+            },
+            {
+              "name": "Anders Dreyer",
+              "dateOfBirth": "1998-05-02T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Edward Chilufya",
+              "dateOfBirth": "1999-09-17T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Zambia"
+            },
+            {
+              "name": "Sory Kaba",
+              "dateOfBirth": "1995-07-28T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Guinea"
+            },
+            {
+              "name": "Luca Pfeiffer",
+              "dateOfBirth": "1996-08-20T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Gustav Isaksen",
+              "dateOfBirth": "2001-04-19T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Denmark"
+            },
+            {
+              "name": "Juan Moreno",
+              "dateOfBirth": "2002-09-21T00:00:00.000Z",
+              "position": "",
+              "countryOfBirth": null
+            },
+            {
+              "name": "Victor Lind",
+              "dateOfBirth": "2003-07-12T00:00:00.000Z",
+              "position": null,
+              "countryOfBirth": null
+            }
+          ],
+          "shortName": "Midtjylland",
+          "tla": "MID"
+        },
+        {
+          "areaName": "Estonia",
+          "email": "sport@levadia.ee",
+          "name": "FCI Levadia",
+          "players": [],
+          "shortName": "FCI Levadia",
+          "tla": "LEV"
+        },
+        {
+          "areaName": "Finland",
+          "email": "hjk@hjk.fi",
+          "name": "Helsingin JK",
+          "players": [],
+          "shortName": "HJK",
+          "tla": null
+        },
+        {
+          "areaName": "Switzerland",
+          "email": "info@fcz.ch",
+          "name": "FC Zürich",
+          "players": [],
+          "shortName": "FC Zürich",
+          "tla": "FCZ"
+        },
+        {
+          "areaName": "Scotland",
+          "email": "editor@rangers.co.uk",
+          "name": "Rangers FC",
+          "players": [
+            {
+              "name": "Allan McGregor",
+              "dateOfBirth": "1982-01-31T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Andrew Firth",
+              "dateOfBirth": "1996-09-26T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Jon McLaughlin",
+              "dateOfBirth": "1987-09-09T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Robby McCrorie",
+              "dateOfBirth": "1998-03-18T00:00:00.000Z",
+              "position": "Goalkeeper",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Filip Helander",
+              "dateOfBirth": "1993-04-22T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Sweden"
+            },
+            {
+              "name": "Leon Balogun",
+              "dateOfBirth": "1988-06-28T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Germany"
+            },
+            {
+              "name": "Jack Simpson",
+              "dateOfBirth": "1996-12-18T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Connor Goldson",
+              "dateOfBirth": "1992-12-18T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Borna Barišić",
+              "dateOfBirth": "1992-11-10T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Croatia"
+            },
+            {
+              "name": "Ryan Jack",
+              "dateOfBirth": "1992-02-27T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "James Tavernier",
+              "dateOfBirth": "1991-10-31T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "James Sands",
+              "dateOfBirth": "2000-07-06T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "United States"
+            },
+            {
+              "name": "Mateusz Żukowski",
+              "dateOfBirth": "2001-11-23T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Poland"
+            },
+            {
+              "name": "Calvin Bassey",
+              "dateOfBirth": "1999-12-31T00:00:00.000Z",
+              "position": "Defence",
+              "countryOfBirth": "Italy"
+            },
+            {
+              "name": "John Lundstram",
+              "dateOfBirth": "1994-02-18T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Ryan Kent",
+              "dateOfBirth": "1996-11-11T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Joe Aribo",
+              "dateOfBirth": "1996-07-21T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Scott Arfield",
+              "dateOfBirth": "1988-11-01T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Steven Davis",
+              "dateOfBirth": "1985-01-01T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Northern Ireland"
+            },
+            {
+              "name": "Giovanni van Bronckhorst",
+              "dateOfBirth": "1975-02-05T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Netherlands"
+            },
+            {
+              "name": "Ianis Hagi",
+              "dateOfBirth": "1998-10-22T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Turkey"
+            },
+            {
+              "name": "Glen Kamara",
+              "dateOfBirth": "1995-10-28T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Finland"
+            },
+            {
+              "name": "Glenn Middleton",
+              "dateOfBirth": "2000-01-01T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Jake Hastie",
+              "dateOfBirth": "1998-03-18T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Stephen Kelly",
+              "dateOfBirth": "2000-04-13T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Nnamdi Ofoborh",
+              "dateOfBirth": "1999-11-07T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Ben Williamson",
+              "dateOfBirth": "2001-08-07T00:00:00.000Z",
+              "position": "Midfield",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Kemar Roofe",
+              "dateOfBirth": "1993-01-06T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "England"
+            },
+            {
+              "name": "Fashion Sakala",
+              "dateOfBirth": "1997-03-14T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Zambia"
+            },
+            {
+              "name": "Cédric Itten",
+              "dateOfBirth": "1996-12-27T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Switzerland"
+            },
+            {
+              "name": "Scott Wright",
+              "dateOfBirth": "1997-08-08T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Scotland"
+            },
+            {
+              "name": "Alfredo Morelos",
+              "dateOfBirth": "1996-06-21T00:00:00.000Z",
+              "position": "Offence",
+              "countryOfBirth": "Colombia"
+            }
+          ],
+          "shortName": "Rangers",
+          "tla": "RAN"
+        },
+        {
+          "areaName": "Romania",
+          "email": "club@cfr-ecomax.ro",
+          "name": "FC CFR 1907 Cluj",
+          "players": [],
+          "shortName": "CFR Cluj",
+          "tla": "CLU"
+        },
+        {
+          "areaName": "Poland",
+          "email": "lech@lechpoznan.pl",
+          "name": "KKS Lech Poznań",
+          "players": [],
+          "shortName": "Lech Poznań",
+          "tla": "LEP"
+        },
+        {
+          "areaName": "Norway",
+          "email": "bg@glimt.no",
+          "name": "FK Bodø/Glimt",
+          "players": [],
+          "shortName": "Bodø/Glimt",
+          "tla": "FK"
+        },
+        {
+          "areaName": "Latvia",
+          "email": "maksims.krivunecs@gmail.com",
+          "name": "FK Rīgas Futbola Skola",
+          "players": [],
+          "shortName": "FK Rīgas FS",
+          "tla": "RFS"
+        },
+        {
+          "areaName": "Iceland",
+          "email": "kr@kr.is",
+          "name": "KR Reykjavík",
+          "players": [],
+          "shortName": "KR",
+          "tla": "KRR"
+        },
+        {
+          "areaName": "Hungary",
+          "email": "ftcrt@ftc.hu",
+          "name": "Ferencvárosi TC",
+          "players": [],
+          "shortName": "Ferencváros",
+          "tla": "FTC"
+        },
+        {
+          "areaName": "Gibraltar",
+          "email": "lincolnredimps@hotmail.com",
+          "name": "Lincoln Red Imps FC",
+          "players": [],
+          "shortName": "Lincoln",
+          "tla": "LIN"
+        },
+        {
+          "areaName": "Montenegro",
+          "email": "fcsutjeska@cg.yu",
+          "name": "FK Sutjeska Nikšić",
+          "players": [],
+          "shortName": "Sutjeska Nik",
+          "tla": "SUT"
+        },
+        {
+          "areaName": "Faroe Islands",
+          "email": "ki@ki.fo",
+          "name": "KÍ",
+          "players": [],
+          "shortName": "KÍ",
+          "tla": "KÍ"
+        },
+        {
+          "areaName": "FYR Macedonia",
+          "email": "info@fcshkupi.com",
+          "name": "FK Shkupi Skopje",
+          "players": [],
+          "shortName": "Shkupi Skopje",
+          "tla": "SHK"
+        },
+        {
+          "areaName": "Armenia",
+          "email": "fcpyunik@netsys.am",
+          "name": "FC Pyunik Yerevan",
+          "players": [],
+          "shortName": "Pyunik",
+          "tla": "PYU"
+        },
+        {
+          "areaName": "Belarus",
+          "email": "info@fcshakhter.by",
+          "name": "FK Šachcior Salihorsk",
+          "players": [],
+          "shortName": "Šachcior S.",
+          "tla": "SOL"
+        },
+        {
+          "areaName": "Slovakia",
+          "email": "info@skslovan.com",
+          "name": "ŠK Slovan Bratislava",
+          "players": [],
+          "shortName": "Sl. Bratislava",
+          "tla": "SBA"
+        },
+        {
+          "areaName": "Cyprus",
+          "email": "info@aek.com.cy",
+          "name": "AÉK Lárnaka",
+          "players": [],
+          "shortName": "AÉK Lárnaka",
+          "tla": "AEK"
+        },
+        {
+          "areaName": "Georgia",
+          "email": null,
+          "name": "FC Dinamo Batumi",
+          "players": [],
+          "shortName": "Dinamo Batumi",
+          "tla": "BAT"
+        },
+        {
+          "areaName": "Andorra",
+          "email": "interclubdescaldes@gmail.com",
+          "name": "Inter Club d'Escaldes",
+          "players": [],
+          "shortName": "Inter Club",
+          "tla": "INT"
+        },
+        {
+          "areaName": "Albania",
+          "email": "info@kftirana.al",
+          "name": "KF Tirana",
+          "players": [],
+          "shortName": "Tirana",
+          "tla": "TIR"
+        },
+        {
+          "areaName": "Kazakhstan",
+          "email": null,
+          "name": "Tobol Kostanay",
+          "players": [],
+          "shortName": null,
+          "tla": null
+        },
+        {
+          "areaName": "Kosovo",
+          "email": null,
+          "name": "Ballkani",
+          "players": [],
+          "shortName": null,
+          "tla": null
+        }
+      ]
+    }
+  ]
+}

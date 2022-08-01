@@ -1,0 +1,12 @@
+type Team {
+  name: String!
+  tla: String
+  shortName: String
+  areaName: String
+  email: String
+  players: [Player]
+}
+
+type Query {
+    teamByName(name: String): Team
+}
