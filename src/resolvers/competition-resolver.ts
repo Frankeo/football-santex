@@ -1,4 +1,8 @@
-import { getTeamsById, insertCompetition } from '../database/league-repository'
+import {
+    getCompetition,
+    getTeamsById,
+    insertCompetition,
+} from '../database/league-repository'
 import {
     getLeagueByCode,
     getTeamById,
@@ -11,6 +15,8 @@ export const competitionResolver = {
     }: {
         leagueCode: string
     }): Promise<Competition> {
+        const dbCompetition = await getCompetition(leagueCode)
+        if (dbCompetition) return dbCompetition
         const league = await getLeagueByCode(leagueCode)
         const teamIds = await getTeamIdsByLeague(leagueCode)
         const existingTeams = await getTeamsById(teamIds)

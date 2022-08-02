@@ -17,6 +17,11 @@ export const insertCompetition = async (competition: Competition) => {
     await db.write()
 }
 
+export const getCompetition = async (leagueCode: string) =>
+    ((await getDB()).data?.competitions as Competition[]).filter(
+        ({ code }) => code == leagueCode
+    )[0]
+
 export const getPlayersByLeague = async (
     leagueCode: string
 ): Promise<Player[]> => {
