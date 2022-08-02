@@ -7,6 +7,7 @@ interface Player {
 }
 
 interface Team {
+    id: number
     name: string
     tla: string
     shortName: string

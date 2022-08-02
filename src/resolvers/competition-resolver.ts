@@ -1,9 +1,9 @@
-import { insertCompetition } from '../database/league-repository'
+import { getTeamsById, insertCompetition } from '../database/league-repository'
 import {
     getLeagueByCode,
     getTeamById,
     getTeamIdsByLeague,
-} from '../football-client'
+} from '../api/football-client'
 
 export const competitionResolver = {
     async importLeague({
@@ -13,7 +13,10 @@ export const competitionResolver = {
     }): Promise<Competition> {
         const league = await getLeagueByCode(leagueCode)
         const teamIds = await getTeamIdsByLeague(leagueCode)
-        league.teams = await Promise.all(teamIds.map(await getTeamById))
+        const existingTeams = await getTeamsById(teamIds);
+        const remainingIds = teamIds.filter(id => !existingTeams.map(e => e.id).includes(id));
+        league.teams = await Promise.all(remainingIds.map(await getTeamById))
+        league.teams.push(...existingTeams);
         await insertCompetition(league)
         return league
     },

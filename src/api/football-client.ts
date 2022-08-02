@@ -1,4 +1,4 @@
-import { competitionAdapter, teamAdapter } from './adapters/competition-adapter'
+import { competitionAdapter, teamAdapter } from '../adapters/competition-adapter'
 import axios from 'axios'
 import rateLimit from 'axios-rate-limit'
 

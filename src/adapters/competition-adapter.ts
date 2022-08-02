@@ -30,7 +30,9 @@ export const teamAdapter = ({
     tla,
     email,
     squad,
+    id
 }: TeamAPI): Team => ({
+    id: id,
     areaName: area.name,
     email: email,
     name: name,
