@@ -17,6 +17,7 @@ export const competitionResolver = {
     }): Promise<Competition> {
         const dbCompetition = await getCompetition(leagueCode)
         if (dbCompetition) return dbCompetition
+
         const league = await getLeagueByCode(leagueCode)
         const teamIds = await getTeamIdsByLeague(leagueCode)
         const existingTeams = await getTeamsById(teamIds)

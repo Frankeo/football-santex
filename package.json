@@ -4,8 +4,8 @@
     "description": "Solution for santex challenge",
     "main": "app.js",
     "scripts": {
-        "prestart": "tsc && copyfiles -f src/schemas/* build/schemas/",
-        "start": "node build/app.js",
+        "prestart": "tsc && copyfiles -f src/schemas/* build/src/schemas/",
+        "start": "node build/src/app.js",
         "test": "jest",
         "format": "prettier --check .",
         "format:fix": "prettier --write .",

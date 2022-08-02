@@ -17,10 +17,13 @@ export const insertCompetition = async (competition: Competition) => {
     await db.write()
 }
 
-export const getCompetition = async (leagueCode: string) =>
-    ((await getDB()).data?.competitions as Competition[]).filter(
+export const getCompetition = async (leagueCode: string) => {
+    const db = await getDB()
+    db.data = db.data || { competitions: [] }
+    return (db.data?.competitions as Competition[]).filter(
         ({ code }) => code == leagueCode
     )[0]
+}
 
 export const getPlayersByLeague = async (
     leagueCode: string
@@ -54,7 +57,10 @@ export const getTeamByName = async (teamName: string): Promise<Team> => {
     return team
 }
 
-export const getTeamsById = async (ids: number[]): Promise<Team[]> =>
-    ((await getDB()).data?.competitions as Competition[])
+export const getTeamsById = async (ids: number[]): Promise<Team[]> => {
+    const db = await getDB()
+    db.data = db.data || { competitions: [] }
+    return (db.data?.competitions as Competition[])
         .flatMap((comp) => comp.teams)
         .filter((team) => ids.includes(team.id))
+}
